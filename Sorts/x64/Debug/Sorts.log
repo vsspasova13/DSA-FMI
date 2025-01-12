@@ -1,0 +1,4 @@
+﻿  sorts.cpp
+D:\УНИ\3sem\СДА\Sorts\sorts.cpp(26,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\УНИ\3sem\СДА\Sorts\sorts.cpp(29,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Sorts.vcxproj -> D:\УНИ\3sem\СДА\Sorts\x64\Debug\Sorts.exe
